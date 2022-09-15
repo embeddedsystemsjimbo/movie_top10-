@@ -8,11 +8,6 @@ Display top 10 movies using Flask, Bootstrap, WTforms, SQLAlchemy frameworks and
 ![image](https://user-images.githubusercontent.com/76194492/190506716-9f0e6494-563c-4f15-ac78-20670ac3e21d.png)
 
 
-
-![image](https://user-images.githubusercontent.com/76194492/190507327-34734cc4-b239-425c-a9af-e8ac62e8a6e0.png)
-
-
-
 ![image](https://user-images.githubusercontent.com/76194492/190507396-d50abc7c-af17-4d07-a693-eb57cf12566c.png)
 
 

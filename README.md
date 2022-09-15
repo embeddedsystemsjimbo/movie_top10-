@@ -1,11 +1,17 @@
 # Movie Top10 web app. 
 Display top 10 movies using the Flask framework, Flask-Bootstrap framework, Wtforms library, SQLAlchemy (ORM) and "The Movie Database" (TMDB) API.
 
+The HTML frontend template is borrowed from Dr.Angela Yu's 100 Days of Code: Python Bootcamp course, however the backend is my own. 
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/76194492/190506634-f23fbf5f-ce25-405d-a10a-52f0d8a33f40.png)
-
+Figure 1: Home page
 
 ![image](https://user-images.githubusercontent.com/76194492/190506716-9f0e6494-563c-4f15-ac78-20670ac3e21d.png)
+Figure 2: 
 
 
 ![image](https://user-images.githubusercontent.com/76194492/190507396-d50abc7c-af17-4d07-a693-eb57cf12566c.png)

@@ -4,7 +4,7 @@ Display top 10 movies using the Flask framework, Flask-Bootstrap framework, Wtfo
 (The HTML frontend template is borrowed from Dr.Angela Yu's 100 Days of Code: Python Bootcamp course, however the backend is my own.)
 
 
-This is a web application that automates a top 10 movie list. A user can add a movie by selecting the add movie button at the bottom of the homepage (See Figure 1). 
+This is a web application that automates a top 10 movie list. Movies added to the list at displayed on flippable cards, where one side displays the movie poster with ranking and the other side display the movie title, user rating, movie overview and user review (See Figure 1). A user can add a movie by selecting the add movie button at the bottom of the homepage, where they can search a movie to be added based off content from "The Movie Database"  (https://www.themoviedb.org) on the search movie page (See Figure 3). 
 
 
 
@@ -16,7 +16,7 @@ Figure 2: Movie card once flipped reveals a movie title, user rating, descriptio
 
 
 ![image](https://user-images.githubusercontent.com/76194492/190507396-d50abc7c-af17-4d07-a693-eb57cf12566c.png)
-
+Figure 3: Search a movie page. 
 
 ![image](https://user-images.githubusercontent.com/76194492/190507443-7342c1d7-cf94-4e94-87d5-e603677e63f9.png)
 

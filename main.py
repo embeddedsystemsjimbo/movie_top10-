@@ -78,7 +78,7 @@ def edit():
 
         return redirect(url_for("home"))
 
-    return render_template("edit.html", form=form)
+    return render_template("edit.html", form=form, movie_title=movie_title)
 
 
 @app.route("/delete")

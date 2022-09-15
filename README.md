@@ -1,5 +1,5 @@
 # Movie Top10 web app. 
-Display top 10 movies using Flask, Bootstrap, WTforms, SQLAlchemy frameworks and the Movie Database API.
+Display top 10 movies using the Flask framework, Flask-Bootstrap framework, Wtforms library, SQLAlchemy (ORM) and "The Movie Database" (TMDB) API.
 
 
 ![image](https://user-images.githubusercontent.com/76194492/190506634-f23fbf5f-ce25-405d-a10a-52f0d8a33f40.png)

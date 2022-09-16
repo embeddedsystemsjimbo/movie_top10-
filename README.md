@@ -19,12 +19,13 @@ Figure 2: Movie card once flipped reveals a movie title, user rating, descriptio
 Figure 3: Search a movie page. 
 
 ![image](https://user-images.githubusercontent.com/76194492/190507443-7342c1d7-cf94-4e94-87d5-e603677e63f9.png)
-
+Figure 4:
 
 ![image](https://user-images.githubusercontent.com/76194492/190507571-17f42c7d-25c5-4b2d-a942-834271efbbe3.png)
-
+Figure 5
 
 ![image](https://user-images.githubusercontent.com/76194492/190507638-a4984bef-3950-4f65-a4cb-c70bd42e8b89.png)
-
+Figure 6
 
 ![image](https://user-images.githubusercontent.com/76194492/190507673-54f156a7-42d1-4bf6-9fbd-a33caa4d5d09.png)
+Figure 7

@@ -3,15 +3,16 @@
 
 (The HTML frontend template is borrowed from Dr. Angela Yu's 100 Days of Code: Python Bootcamp course, however the backend is my own.)
 
-This is a web application created using Python and the Flask framework that automates some of the user inputs required when creating a “Top 10 Movie List”. For instance, the movie poster image URL, date of release and overview are retrieved automatically using the “The Movie Database" API (https://www.themoviedb.org). Furthermore, the movies are displayed on the homepage dynamically based on user review and saved locally on server with a SQL based database. 
+This “Top 10 Movie List” web application was created using Python, SQLAlchemy, Bootstrap, Wtforms and Flask. Additionally, movie data such as the movie poster image URL, date of release and overview were retrieved using the “The Movie Database" API (https://www.themoviedb.org).
 
-Movies on the list are displayed on flip cards, where one side displays the movie poster with a superimposed movie list rank and the other side displays the movie title, user rating, movie overview and user review (See Figure 1). The movie card order and the rank label are determined by the movie rating where cards are displayed from highest to lowest movie rating. Consequently, as movies are added to the movie list, the movie list order is dynamically changed in ordered to reflect the ranking system. 
+Movies on the list are displayed on flip cards, where one side displays the movie poster with a superimposed movie rank and the other side displays the movie title, user rating, movie overview and user review (See Figure 1). The movie card order and the numerical rank value are determined by the movie rating where cards are displayed from highest to lowest movie rating. Consequently, as movies are added to the movie list, the movie list order is dynamically changed in ordered to reflect the ranking system.
 
-A user can add a movie by first selecting the “add movie” button at the bottom of the homepage to switch to the movie search page.  Once on the movie search page, the user can search for a movie of interest by entering a movie to search in the text field and by selecting the “add movie” button. The user will be transfer to the movie selection page, where a list of movie search results matches is presented (See Figure 4). The user can select a movie, by selecting the desired movie link to add the movie to the movie list. 
+A user can add a movie by first selecting the “add movie” button at the bottom of the homepage to switch to the movie search page.  Once on the movie search page, the user can search for a movie of interest by entering a movie to search in the text field and by selecting the “add movie” button. The user will be transfer to the movie selection page, where a list of movie search results is presented (See Figure 4). By selecting the desired movie title link, a movie can be added to the to the movie list.
 
-After the movie title of choice has been selected by the user, they will be transferred to the review page where they can input a movie rating and write a movie review in the provided text fields (See Figure 5). By selecting the “Done” button, the addition of the new movie to the movie list is complete, and the user will be transferred to the home page (See Figure 6 & 7). 
+After the movie of choice has been selected by the user, they will be transferred to the review page where they can input a movie rating and write a movie review in the provided text fields (See Figure 5). By selecting the “Done” button, the addition of the new movie to the movie list is complete, and the user will be transferred to the home page (See Figure 6 & 7).
 
-Movie cards can be deleted or updated by selecting the appropriate “update” or “delete” button found on each movie card. 
+Movie cards can be deleted or updated by selecting the appropriate “update” or “delete” button found on each respective movie card. 
+
 
 ***
 

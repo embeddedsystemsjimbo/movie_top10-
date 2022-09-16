@@ -25,7 +25,7 @@ Figure 4: Select page.
 Figure 5: Rating/Review page.
 
 ![image](https://user-images.githubusercontent.com/76194492/190507638-a4984bef-3950-4f65-a4cb-c70bd42e8b89.png)
-Figure 6:
+Figure 6: Updated home page.
 
 ![image](https://user-images.githubusercontent.com/76194492/190507673-54f156a7-42d1-4bf6-9fbd-a33caa4d5d09.png)
-Figure 7
+Figure 7: Newly created movie card.

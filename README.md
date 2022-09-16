@@ -2,6 +2,7 @@
 “Top 10 Movie List “web application created using the Flask framework, Flask-Bootstrap framework, Wtforms library, SQLAlchemy (ORM) and "The Movie Database" (TMDB) API.
 
 (The HTML frontend template is borrowed from Dr. Angela Yu's 100 Days of Code: Python Bootcamp course, however the backend is my own.)
+
 This is a web application created using Python and the Flask framework that automates some of the user inputs required when creating a “Top 10 Movie List”. For instance, the movie poster image URL, date of release and overview are retrieved automatically using the “The Movie Database" API (https://www.themoviedb.org). Furthermore, the movies are displayed on the homepage dynamically based on user review and saved locally on server with a SQL based database. 
 
 Movies on the list are displayed on flip cards, where one side displays the movie poster with a superimposed movie list rank and the other side displays the movie title, user rating, movie overview and user review (See Figure 1). The movie card order and the rank label are determined by the movie rating where cards are displayed from highest to lowest movie rating. Consequently, as movies are added to the movie list, the movie list order is dynamically changed in ordered to reflect the ranking system. 

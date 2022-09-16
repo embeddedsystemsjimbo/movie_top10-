@@ -13,6 +13,7 @@ After the movie title of choice has been selected by the user, they will be tran
 
 Movie cards can be deleted or updated by selecting the appropriate “update” or “delete” button found on each movie card. 
 
+***
 
 ![image](https://user-images.githubusercontent.com/76194492/190506634-f23fbf5f-ce25-405d-a10a-52f0d8a33f40.png)
 Figure 1: Home page.

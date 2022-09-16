@@ -1,6 +1,11 @@
 # Movie Top10 web app. 
 
+***
+
 (The HTML frontend template is borrowed from Dr. Angela Yu's 100 Days of Code: Python Bootcamp course, however the backend is my own.)
+
+***
+
 
 This “Top 10 Movie List” web application was created using Python, SQLAlchemy, Bootstrap, Wtforms and Flask. Additionally, movie data such as the movie poster image URL, date of release and overview were retrieved using the “The Movie Database" API (https://www.themoviedb.org).
 
